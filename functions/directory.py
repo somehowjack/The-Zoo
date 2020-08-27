@@ -44,11 +44,11 @@ def directoryM():
       if currDir != baseDir:
         currDir = negaDir(currDir)
     elif userI == "debug":
-      print(baseDir)
-      print(prevDir)
-      print(currDir)
-      print(dirCont)
-      print(userI)
+      print("baseDir: " + baseDir)
+      print("prevDir: " + negaDir(currDir))
+      print("currDir: " + currDir)
+      print("dirCont: " + str(dirCont))
+      print("userI: " + userI)
     elif userI in dirCont:
       if isTXT(userI):
         print("\n" + fileCont(currDir, userI))
