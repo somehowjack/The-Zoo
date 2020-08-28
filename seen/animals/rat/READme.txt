@@ -1,0 +1,1 @@
+I remember when we first met. Do you? I remember it was the same path we walked when we got kicked out of the library. Back then I didn't know you, I didn't know I'd ever visit your house, or share food with you, or 
