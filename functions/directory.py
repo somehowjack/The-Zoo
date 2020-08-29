@@ -39,7 +39,7 @@ def directoryM():
     userI = input("\nWHAT'S ON YOUR MIND ")
     
     if userI == "help":
-      print("\nhelp - display help \nback - return to previous folder \nfilename - open file \nfoldername - open folder")
+      print('\nhelp - display help \nback - return to previous folder \n"filename" - open file \n"foldername" - open folder')
     elif userI == "back":
       if currDir != baseDir:
         currDir = negaDir(currDir)
