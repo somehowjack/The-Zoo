@@ -1,4 +1,4 @@
-listDir = ["seen/animals/penguin/penguin.txt", "seen/animals/octopus/octopus.txt", "seen/animals/rat/rat.txt", "seen/animals/polarBear/polarBear.txt", "seen/animals/vulture/vulture.txt", "seen/animals/komodoDragon/dragon.txt", "seen/animals/jackal/jackal.txt", "seen/animals/theParade.txt"]
+listDir = ["seen/animals/penguin/penguin.txt", "seen/animals/octopus/octopus.txt", "seen/animals/vulture/vulture.txt", "seen/animals/jackal/jackal.txt", "seen/animals/rat/rat.txt", "seen/animals/polarBear/polarBear.txt", "seen/animals/komodoDragon/dragon.txt", "seen/animals/theParade.txt"]
 
 def runFunc():
   print("-----------------------------")
