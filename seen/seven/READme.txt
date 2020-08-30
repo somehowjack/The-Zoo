@@ -1,0 +1,1 @@
+understand, none of this is your fault. yes, these are written about you, but nothing you did was purposeful. all the pain comes from how my brain comprehends these things, not the things themselves. the animal names are there for that reason, to remove blame. because in the end i'm the only on to blame. don't blame yourself, don't blame each other. just read and understand.

@@ -8,7 +8,7 @@ intro.titleText()
 '''file = open("theCages", "r")
 file = file.read()'''
 
-print("type help at anytime for commands")
+print("if this is your first time do theSeven")
 
 while True:
   print('"theSeven" or "freeReign"')

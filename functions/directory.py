@@ -24,7 +24,8 @@ def fileCont(base, add):
 
 
 def directoryM():
-  
+  print("type help at any time for a list of commands")
+
   baseDir = "seen/"
   prevDir = baseDir
   currDir = baseDir
