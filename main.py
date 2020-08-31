@@ -1,6 +1,5 @@
-import os
 from functions import intro 
-from functions import theSeven
+from functions import albumList
 from functions import directory
 
 intro.titleText()
@@ -11,10 +10,12 @@ file = file.read()'''
 print("if this is your first time do theSeven")
 
 while True:
-  print('"theSeven" or "freeReign"')
+  print('"seven", "freeReign", or "willsFaves"')
   option = input("\nWHAT DO YOU CHOOSE? ")
   if option == "freeReign":
     directory.directoryM()
-  if option == "theSeven":
-    theSeven.runFunc()
+  if option == "seven":
+    albumList.runFunc(albumList.theSeven)
+  if option == "willsFaves":
+    albumList.runFunc(albumList.willsFaves)
 
