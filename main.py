@@ -1,6 +1,7 @@
 from functions import intro 
 from functions import albumList
 from functions import directory
+from theForest import theForest
 
 intro.titleText()
 
@@ -15,6 +16,8 @@ while True:
     directory.directoryM()
   if option == "parade":
     albumList.runFunc(albumList.theSeven)
+  if option == "forest":
+    theForest.mainPath()
   if option == "favorites":
     albumList.runFunc(albumList.willsFaves)
 
