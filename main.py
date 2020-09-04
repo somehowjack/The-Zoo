@@ -4,18 +4,17 @@ from functions import directory
 
 intro.titleText()
 
-'''file = open("theCages", "r")
-file = file.read()'''
+'''nothing really interesting in here'''
 
-print("if this is your first time do theSeven")
+print("pick something")
 
 while True:
-  print('"seven", "freeReign", or "willsFaves"')
+  print('POETRY ALBUMS:\n"parade" "forest" "favorites",\nOTHER:\n"fileBrowser"')
   option = input("\nWHAT DO YOU CHOOSE? ")
-  if option == "freeReign":
+  if option == "fileBrowser":
     directory.directoryM()
-  if option == "seven":
+  if option == "parade":
     albumList.runFunc(albumList.theSeven)
-  if option == "willsFaves":
+  if option == "favorites":
     albumList.runFunc(albumList.willsFaves)
 
