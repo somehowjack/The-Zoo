@@ -21,6 +21,7 @@ def fileCont(base, add):
   base = base + add
   base = open(base, "r")
   return base.read()
+  base.close()
 
 
 def directoryM():
