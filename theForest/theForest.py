@@ -13,7 +13,7 @@ tree1 = {"index":4, "new?":True, "text1":"\nsampletext\n", "text2":"\nsampletext
 
 path4 = {"index":8, "new?":True, "text1":"\nsampletext\n", "text2":"\nsampletext\n", "options":[], "":[]}
 
-pathDir = [path1, path2]
+pathDir = [path1, path2, path3, tree1]
 
 def mainPath():
   LOST = True
